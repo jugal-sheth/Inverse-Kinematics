@@ -16,7 +16,5 @@ This simulation showcases the behavior of a two-link robotic arm with adjustable
 
 ## How to Use :rocket:
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/jugal-sheth/Inverse-Kinematics.git
+1. Clone the repository to your local machine.
+2. Run the script in Processing IDE.
