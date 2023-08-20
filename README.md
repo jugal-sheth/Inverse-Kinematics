@@ -6,7 +6,7 @@ Welcome to the Two-Link Robotic Arm Simulation repository! This project utilizes
 
 This simulation showcases the behavior of a two-link robotic arm with adjustable joint angles in response to mouse cursor movements. The project highlights the dynamics of the robotic arm's motion and provides visual insights into its behavior.
 
-![Robotic Arm Simulation](screenshot.png)
+![Robotic Arm Simulation](screenshot.jpg)
 
 ## Features :gear:
 
@@ -19,3 +19,4 @@ This simulation showcases the behavior of a two-link robotic arm with adjustable
 1. Clone the repository to your local machine:
 
    ```bash
+   git clone https://github.com/jugal-sheth/Inverse-Kinematics.git
