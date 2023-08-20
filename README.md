@@ -1,5 +1,4 @@
-# Two-Link Robotic Arm Simulation :robot:
-
+# Two-Link Robotic Arm Simulation
 Welcome to the Two-Link Robotic Arm Simulation repository! This project utilizes the Processing programming language to simulate a two-link robotic arm mechanism. 🦾
 
 ## Overview :computer_mouse:
